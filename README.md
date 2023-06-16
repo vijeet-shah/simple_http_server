@@ -1,5 +1,5 @@
 # simple_http_server
-simple_http_server is a simple, zero-configuration command-line HTTP server.
+simple_http_server is a simple HTTP server.
 
 It is written in Node.js and can be used to serve static files or dynamic content.
 
